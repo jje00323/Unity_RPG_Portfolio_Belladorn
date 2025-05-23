@@ -111,7 +111,7 @@ Unity 기반 3D 쿼터뷰 RPG 게임으로, 플레이어의 **자유로운 스�
 
 - 물고기 조작 / 코인 수집 / 장애물 피하기 / 다양한 물고기 능력 구현
 - FSM 기반 장애물 AI / UI 연동 / 모바일 대응 컨트롤러
-- [2022 Unity 텀프로젝트 PDF](./Unity 기초 3D 러닝 게임.pdf)
+- [2022 Unity 텀프로젝트 PDF](./Unity_Basic_3D_Game.pdf)
 
 ---
 
@@ -119,4 +119,4 @@ Unity 기반 3D 쿼터뷰 RPG 게임으로, 플레이어의 **자유로운 스�
 
 - TPS 이동 / 공격 애니메이션 몽타주 / C++ Notify 기반 연속 공격
 - HP, 스태미나, 무기 충돌 제어 / 다양한 상태 제한 구현
-- [2024 Unreal RPG 프로젝트 PDF](./Unreal Engine 기반 3인칭 RPG 프로토타입.pdf)
+- [2024 Unreal RPG 프로젝트 PDF](./Unreal_3rdPerson_RPG.pdf)
