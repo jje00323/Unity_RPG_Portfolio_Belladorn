@@ -124,7 +124,7 @@ Unity 기반 3D 쿼터뷰 RPG 게임으로, 플레이어의 **자유로운 스�
 
 ## 전체 전투 시연 영상
 
-- [스킬 강화 및 보스 전투 영상(https://img.youtube.com/vi/_yTPznURkmk/hqdefault.jpg)](https://youtu.be/_yTPznURkmk)
+- [스킬 강화 및 보스 전투 영상(https://img.youtube.com/vi/Oe6vouIfHQ8/hqdefault.jpg)](https://youtu.be/Oe6vouIfHQ8)
 
 > 플레이어의 공격, 스킬 등 보스전 전체 흐름을 확인할 수 있는 전투 영상입니다.
 
