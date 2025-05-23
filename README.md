@@ -95,6 +95,15 @@ Unity 기반 3D 쿼터뷰 RPG 게임으로, 플레이어의 **자유로운 스�
 
 ---
 
+## 보스 공격 패턴 예시
+
+<p align="center">
+  <img src="./Gif/ComboAttack.gif" width="720"/>
+</p>
+<p align="center"><i>보스 점프 착지 후 위험 장판 및 히트박스 생성</i></p>
+
+---
+
 ## 비고
 
 - 본 README는 **본인이 직접 구현한 기능 중심**으로 기술되어 있습니다.
