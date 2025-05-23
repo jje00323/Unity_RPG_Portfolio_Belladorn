@@ -11,13 +11,17 @@ Unity 기반 3D 쿼터뷰 RPG 게임으로, 플레이어의 **자유로운 스�
 
 ## 게임 스크린샷
 
-### 게임 시작 화면
+## 게임 시작 & 전투 장면
 
 <p align="center">
   <img src="./Image/Belladorn_MainScene.png" width="720"/>
 </p>
-
 <p align="center"><b>&lt;Belladorn 메인 화면&gt;</b></p>
+
+<p align="center">
+  <img src="./Image/Belladorn_Monster.png" width="720"/>
+</p>
+<p align="center"><b>&lt;일반 몬스터와 전투 장면&gt;</b></p>
 
 
 ---
