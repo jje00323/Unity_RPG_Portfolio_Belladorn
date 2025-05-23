@@ -11,13 +11,17 @@ Unity 기반 3D 쿼터뷰 RPG 게임으로, 플레이어의 **자유로운 스�
 
 ## 게임 스크린샷
 
-### 게임 시작 화면
+## 게임 시작 & 전투 장면
 
 <p align="center">
   <img src="./Image/Belladorn_MainScene.png" width="720"/>
 </p>
-
 <p align="center"><b>&lt;Belladorn 메인 화면&gt;</b></p>
+
+<p align="center">
+  <img src="./Image/Belladorn_Monster.png" width="720"/>
+</p>
+<p align="center"><b>&lt;일반 몬스터와 전투 장면&gt;</b></p>
 
 
 ---
@@ -88,6 +92,16 @@ Unity 기반 3D 쿼터뷰 RPG 게임으로, 플레이어의 **자유로운 스�
 - 플레이어 체력 / 마나 / 경험치 / 레벨 UI
 - 일반 몬스터 / 보스 체력 UI
 - 데미지 텍스트 표시 기능
+
+---
+
+## 콤보 공격 패턴 예시
+
+<p align="center">
+  <img src="./Gif/ComboAttack.gif" width="720"/>
+</p>
+
+<p align="center"><i>보스가 연속 공격을 퍼붓는 콤보 패턴 시연</i></p>
 
 ---
 
