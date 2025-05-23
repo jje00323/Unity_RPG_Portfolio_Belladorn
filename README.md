@@ -122,9 +122,9 @@ Unity 기반 3D 쿼터뷰 RPG 게임으로, 플레이어의 **자유로운 스�
 </p>
 <p align="center"><b>&lt;보스 패턴 강화 - 번개 패턴&gt;</b></p>
 
-## 🎥 전체 전투 시연 영상
+## 전체 전투 시연 영상
 
-[▶️ Player vs Boss Combat - MP4 다운로드 보기](./Video/Player_Combat_Boss.mp4)
+[스킬 강화 및 보스 전투 영상](https://img.youtube.com/vi/_yTPznURkmk/hqdefault.jpg)](https://youtu.be/_yTPznURkmk)
 
 > 플레이어의 공격, 스킬 등 보스전 전체 흐름을 확인할 수 있는 전투 영상입니다.
 
