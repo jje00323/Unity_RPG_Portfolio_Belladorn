@@ -95,13 +95,32 @@ Unity 기반 3D 쿼터뷰 RPG 게임으로, 플레이어의 **자유로운 스�
 
 ---
 
-## 콤보 공격 패턴 예시
+## 보스 시네마틱 및 패턴 예시
 
 <p align="center">
-  <img src="./Gif/ComboAttack.gif" width="720"/>
+  <img src="./Gif/IntroScene.gif" width="720"/>
 </p>
+<p align="center"><b>&lt;보스 소환 시 시네마틱 영상&gt;</b></p>
 
-<p align="center"><i>보스가 연속 공격을 퍼붓는 콤보 패턴 시연</i></p>
+<p align="center">
+  <img src="./Gif/CutScene.gif" width="720"/>
+</p>
+<p align="center"><b>&lt;보스 패턴 강화 시네마틱 영상&gt;</b></p>
+
+<p align="center">
+  <img src="./Gif/Combo_Attack.gif" width="720"/>
+</p>
+<p align="center"><b>&lt;보스 콤보 공격&gt;</b></p>
+
+<p align="center">
+  <img src="./Gif/Boss_JumpMotion.gif" width="720"/>
+</p>
+<p align="center"><b>&lt;보스 점프 공격 및 위험 장판 표시&gt;</b></p>
+
+<p align="center">
+  <img src="./Gif/Boss_Lightning.gif" width="720"/>
+</p>
+<p align="center"><b>&lt;보스 패턴 강화 - 번개 패턴&gt;</b></p>
 
 ---
 
