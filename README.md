@@ -128,6 +128,9 @@ Unity 기반 3D 쿼터뷰 RPG 게임으로, 플레이어의 **자유로운 스�
 
 > 플레이어의 공격, 스킬 등 보스전 전체 흐름을 확인할 수 있는 전투 영상입니다.
 
+- [스킬 강화 및 보스 전투 영상(https://img.youtube.com/vi/l7y8tcXsdKo/hqdefault.jpg)](https://www.youtube.com/watch?v=l7y8tcXsdKo)
+
+> 2025/05/27일자 [한림대학교] 소프트웨어 학과 캡스톤디자인 2025년 1학기 SW캡스톤 (TGW팀) 영상입니다.
 ---
 
 ## 비고
